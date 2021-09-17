@@ -20,7 +20,7 @@ title                    : "C 프로그래밍"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "김예원"
-description              : "시스템 프로그램을 위한 C언어"
+description              : "시스템 프로그래밍을 위한 C언어"
 url                      : "https://yewon04.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "yewon04/yewon04.github.io"
