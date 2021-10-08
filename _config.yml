@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "김예원"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/1.jpg"
   bio              : "hafs 16"
   location         : "대한민국"
   email            : "yewon040126@gmail.com"
